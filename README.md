@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srini-2002
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning BE. UG
-- 💞️ I’m looking to collaborate on Google
+- 💞️ I’m looking to collaborate on Corporate
 - 📫 How to reach me gmail:srinivash.ig20@bitsathy.ac.in
 
 <!---

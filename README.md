@@ -44,7 +44,7 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/Srini-
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
+<!--
 <h2> 💪 My Github Stats </h2>
 
 <a href="https://github.com/Srini-2002">
@@ -53,3 +53,4 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/Srini-
 <a href="https://github.com/Srini-2002">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srini 2002&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=html,css,hack,php" alt="Srini-2002's Github Status"/>
 </a>
+-->

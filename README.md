@@ -1,4 +1,4 @@
-<h2> Hi, I'm Srini-2002! <img src="https://i.giphy.com/media/w1pwl0F67JHGFLseNk/giphy.webp" width="50"></h2>
+<h2> Hi, I'm Srini-2002! <img src="https://i.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.webp" width="50"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Srinivash-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srinivash-g-s-023564214/)](https://www.linkedin.com/in/srinivash-g-s-023564214/)
 [![Instagram Badge](https://img.shields.io/badge/-@srini.___-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/srini.___/)](https://www.instagram.com/srini.___/)

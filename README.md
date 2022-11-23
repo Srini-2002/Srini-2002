@@ -1,9 +1,9 @@
 <h2> Hi, I'm Srini-2002! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Manoj_A-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srinivash-g-s-023564214/)](https://www.linkedin.com/in/srinivash-g-s-023564214/)
-[![Instagram Badge](https://img.shields.io/badge/-@__M4n0j__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/srini.___/)](https://www.instagram.com/srini.___/)
-[![Gmail Badge](https://img.shields.io/badge/-Manoj_A-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Manoj.thunderviz@gmail.com)](mailto:srinivashganesan@gmail.com)
-[![Spotify Badge](https://img.shields.io/badge/-@ManojTGN-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=[https://open.spotify.com/user/ftlvppsq3qsz2t0qcqs0k9kns](https://open.spotify.com/user/ftlvppsq3qsz2t0qcqs0k9kns))](https://open.spotify.com/user/ftlvppsq3qsz2t0qcqs0k9kns)
+[![Linkedin Badge](https://img.shields.io/badge/-Srinivash-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srinivash-g-s-023564214/)](https://www.linkedin.com/in/srinivash-g-s-023564214/)
+[![Instagram Badge](https://img.shields.io/badge/-@srini.___-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/srini.___/)](https://www.instagram.com/srini.___/)
+[![Gmail Badge](https://img.shields.io/badge/-Srinivash_G-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:srinivashganesan@gmail.com)](mailto:srinivashganesan@gmail.com)
+[![Spotify Badge](https://img.shields.io/badge/-@Srinivash-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=[https://open.spotify.com/user/ftlvppsq3qsz2t0qcqs0k9kns](https://open.spotify.com/user/ftlvppsq3qsz2t0qcqs0k9kns))](https://open.spotify.com/user/ftlvppsq3qsz2t0qcqs0k9kns)
 
 Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/Srini-2002), I am interested in Ai & ML also intrested on developing games. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/srinivash-g-s-023564214/)!
 
@@ -48,8 +48,8 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/Srini-
 <h2> 💪 My Github Stats </h2>
 
 <a href="https://github.com/Srini-2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srini 2002&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ManojTGN's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srini 2002&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Srini-2002's GitHub Stats" />
 </a>
 <a href="https://github.com/Srini-2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srini 2002&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=html,css,hack,php" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srini 2002&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=html,css,hack,php" alt="Srini-2002's Github Status"/>
 </a>
